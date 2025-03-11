@@ -31,9 +31,17 @@ The main objectives of the Mela Software Company website are to:
 ### key-features
 
 • *Homepage:*  A welcoming and informative landing page that quickly introduces Mela Software Company and its core offerings.
+
+
 • *Services Page:* Detailed descriptions of the software development services offered (e.g., Web Development, Mobile App Development,etc)
+
+
 • *About Us Page:*  Information about Mela Software Company's mission, values, team, and history.
+
+
   *Contact Us Page:*  Contact form, email addresses, phone numbers, and potentially a map to the company's location.
+
+
 • *Responsive Design:*  Website is fully responsive and accessible across various devices (desktops, tablets, and mobile phones).
 
 ### Built With
